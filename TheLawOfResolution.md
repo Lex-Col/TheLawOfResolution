@@ -14,14 +14,15 @@
 
 
 
+<br><br><br><br><br><br><br><br><br><br>
+
+
 # PAGE 0
 
 <p align="center">
   <img src="https://placehold.co/2000x1000/FFFFFF/FFFFFF.png" width="100%" height="600px">
 </p>
-<p align="center">
-  <img src="https://placehold.co/2000x1000/FFFFFF/FFFFFF.png" width="100%" height="600px">
-</p>
+
 
 
 ---
