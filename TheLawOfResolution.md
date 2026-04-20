@@ -9,21 +9,21 @@
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 > **"Let there be light"**
-
-<br><br><br>
 
 # PAGE 0
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AnandChowdhary/opaque-white/master/opaque-white.png" width="100%" height="600px">
+  <img src="https://placehold.co/2000x1000/FFFFFF/FFFFFF.png" width="100%" height="600px">
 </p>
 
-<br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ---
-
 
 
 
