@@ -12,11 +12,15 @@
 
 > **"Let there be light"**
 
+<br><br><br>
+
 # PAGE 0
 
-<br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AnandChowdhary/opaque-white/master/opaque-white.png" width="100%" height="600px">
+</p>
+
+<br><br><br>
 
 ---
 
