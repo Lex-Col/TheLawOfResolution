@@ -27,22 +27,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # PHASE I: THE ORIGIN (THE BINARY ROOT)
 
 ## PAGE 1: THE ZERO AXIOM (THE SOVEREIGN CANVAS)
